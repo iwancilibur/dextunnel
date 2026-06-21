@@ -90,7 +90,7 @@ Prometheus Metrics         →  Grafana compatible
 
 ```cmd
 # Clone
-git clone https://github.com/dextunnel/dextunnel.git
+git clone https://github.com/iwancilibur/dextunnel.git
 cd dextunnel
 
 # Build everything
