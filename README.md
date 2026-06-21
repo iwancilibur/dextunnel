@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="1254" height="1254" alt="Image" src="https://github.com/user-attachments/assets/4d1ac9ab-8094-434c-854f-984b7d08dd36" />
+![DexTunnel Logo](docs/wireframes/logo.png)
 
 **Enterprise-grade desktop application for managing Cloudflare Tunnels, DNS, Reverse Proxy, Server Monitoring, and Local Application Deployment — all without command line.**
 
@@ -363,6 +363,8 @@ MIT License — see [LICENSE](LICENSE) file.
 
 <div align="center">
 Made with ❤️ for developers, sysadmins, and self-hosting enthusiasts
+
+Click To [Treat me to coffee](https://mayar.to/dunyotech) 🙏 
 
 [iwancilibur.my.id](https://iwancilibur.my.id) | [Facebook](https://www.facebook.com/iwan.cilibur) | [LinkedIn](https://id.linkedin.com/in/iwan-cilibur-57534699)
 
