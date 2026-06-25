@@ -1,6 +1,6 @@
 # DexTunnel — CloudTunnel Manager
 
-<img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/492edf8b-23be-40ab-b30d-a374c32efa66" />
+<img width="1526" height="455" alt="Image" src="https://github.com/user-attachments/assets/080b2e37-e03c-4a51-b719-906a1f04a941" />
 **Enterprise-grade desktop application for managing Cloudflare Tunnels, DNS, Reverse Proxy, Server Monitoring, and Local Application Deployment — all without command line.**
 
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://python.org)
