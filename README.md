@@ -62,11 +62,11 @@
 
 # Panduan Instalasi
 
-## Metode 1: Instalasi via Inno Setup Installer (Recommended)
+## Instalasi Setup Installer (Recommended)
 
 ### Langkah 1: Download Installer
 
-Download file `DexTunnel-Setup-1.0.0.exe` dari distributor resmi atau build sendiri.
+Download file `DexTunnel-Setup-1.0.0.exe` dari distributor resmi.
 
 ### Langkah 2: Jalankan Installer
 
@@ -104,46 +104,6 @@ Download file `DexTunnel-Setup-1.0.0.exe` dari distributor resmi atau build send
 | **Password** | `admin123` |
 
 > ⚠️ **Penting**: Segera ganti password default setelah login pertama kali via menu **User Management**.
-
----
-
-## Metode 2: Instalasi Manual (Development)
-
-### Langkah 1: Persiapan
-
-Pastikan terinstall:
-- **Python 3.12+** → Download dari [python.org](https://python.org)
-- **Git** (opsional) → Download dari [git-scm.com](https://git-scm.com)
-
-### Langkah 2: Clone atau Extract Project
-
-```bash
-# Via Git
-git clone https://github.com/iwancilibur/dextunnel.git
-cd dextunnel
-
-# Atau extract manual
-cd D:\YourPath\dex_tunnel
-```
-
-### Langkah 3: Buat Virtual Environment
-
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-### Langkah 4: Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Langkah 5: Jalankan Aplikasi
-
-```bash
-python main.py
-```
 
 ---
 
